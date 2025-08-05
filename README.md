@@ -1,6 +1,6 @@
 # Laravel CRUD API Application
 
-This repository contains a Laravel 10 application that provides CRUD API endpoints for managing Users, Posts, and Comments. It also includes an integrated Swagger UI for API documentation.
+This repository contains a Laravel 12 application that provides CRUD API endpoints for managing Users, Posts, and Comments. It also includes an integrated Swagger UI for API documentation.
 
 ## Requirements
 
